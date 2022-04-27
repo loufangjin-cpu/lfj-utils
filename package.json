@@ -1,0 +1,8 @@
+{
+  "name": "lfj-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/loufangjin-cpu/lfj-utils.git",
+  "author": "loufangjin14052 <loufangjin14052@ipalfish.com>",
+  "license": "MIT"
+}
